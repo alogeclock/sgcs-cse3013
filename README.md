@@ -4,7 +4,7 @@
 
 2024년 1학기 / 김승욱 교수님
 
-- 실험
+### 실험
     - [1주차](1주차): UNIX shell progamming
     - [2주차](2주차): gcc, gdb, Makefile
     - [3주차](3주차): C++
@@ -19,7 +19,7 @@
     - [12주차](12주차): Maze Project #2 - draw maze
     - [13주차](13주차): Maze Project #3 - DFS, BFS
 
-- 최종 프로젝트: 게임 '팩맨' 구현하기
+### 최종 프로젝트: 게임 '팩맨' 구현하기
     - [PPT](final-project/PPT_20191150_전현길.pptx)
     - [보고서](final-project/보고서_20191150_전현길.hwp)
     - [동영상](final-project/동영상_20191150_전현길.mp4)
