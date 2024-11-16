@@ -1,3 +1,4 @@
+![game screenshot](./image.png)
 
 1. 프로젝트 실행 환경
 
