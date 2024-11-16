@@ -4,6 +4,8 @@
 
 2024년 1학기 / 김승욱 교수님
 
+---
+
 ### 실험
 
 - [1주차](1주차): UNIX shell progamming
@@ -19,6 +21,8 @@
 - [11주차](11주차): Maze Project #1 - Kruskal Algorithm
 - [12주차](12주차): Maze Project #2 - draw maze
 - [13주차](13주차): Maze Project #3 - DFS, BFS
+
+---
 
 ### 최종 프로젝트: 게임 '팩맨' 구현하기
 
