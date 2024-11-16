@@ -27,6 +27,6 @@
 ### 최종 프로젝트: 게임 '팩맨' 구현하기
 
 - [PPT](final-project/PPT_20191150_전현길.pptx)
-- [보고서](final-project/보고서_20191150_전현길.hwp)
+- [보고서](final-project/보고서_20191150_전현길.pdf)
 - [동영상](final-project/동영상_20191150_전현길.mp4)
 - [소스 코드](final-project/Pacman)
