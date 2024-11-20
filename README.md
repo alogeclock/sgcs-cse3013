@@ -8,15 +8,15 @@
 
 ### 실험
 
-- [1주차](1주차): UNIX shell progamming
-- [2주차](2주차): gcc, gdb, Makefile
-- [3주차](3주차): C++
-- [4주차](4주차): Object Oriented Programming
-- [5주차](5주차): github
-- [6주차](6주차): OpenFrameWorks - Waterfall #1
-- [7주차](7주차): OpenFrameWorks - Waterfall #2
-- [8주차](8주차): Tetris Project #1
-- [9주차](9주차): Tetris Project #2 - Ranking System
+- [1주차](01주차): UNIX shell progamming
+- [2주차](02주차): gcc, gdb, Makefile
+- [3주차](03주차): C++
+- [4주차](04주차): Object Oriented Programming
+- [5주차](05주차): github
+- [6주차](06주차): OpenFrameWorks - Waterfall #1
+- [7주차](07주차): OpenFrameWorks - Waterfall #2
+- [8주차](08주차): Tetris Project #1
+- [9주차](09주차): Tetris Project #2 - Ranking System
 - [10주차](10주차): Tetris Project #3 - Recommendation System
 - [11주차](11주차): Maze Project #1 - Kruskal Algorithm
 - [12주차](12주차): Maze Project #2 - draw maze
